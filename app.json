@@ -1,4 +1,7 @@
 {
     "name":  "app-daily-affirmations",
-    "displayName":  "Daily Affirmations"
+    "displayName":  "Daily Affirmations",
+    "expo":  {
+
+             }
 }
